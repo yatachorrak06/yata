@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+booy{
+	color:cornflowerblue;
+	background-color:darkkhaki;
+	font-size:1.5rem
+}
+h1{
+    background-color: red;
+    color: #1D9BB4;
+    padding: 10px;
+    margin: 10px;
+}
+p {
+    background-color: rgba(156, 156, 156, 0.41);
+    clear: blue;
+    font-size: 16px;
+    color: #4EE46D;
+}
+p:hoveer{
+	background-color:white;	
+}
+.round{
+	border-radius:40px;
+}
